@@ -6,11 +6,11 @@ $i18n = [
 	'lang_Menu_Title'			=>	'debugCE 🐛',
 	
 	'lang_Page_Title'			=>	'debugCE 🐛',
-	'lang_Description'			=>	'Turn On & Off Debug Mode without editing gsConfig.',
+	'lang_Description'			=>	'Schalten Sie den <span class="w3-red w3-padding-small">DEBUG-MODUS</span> ein und aus, ohne gsConfig zu bearbeiten.',
 	
 # General
-	'lang_Off'					=>	'Off',
-	'lang_On'					=>	'On',
-	'lang_Save'					=>	'Save',
+	'lang_Off'					=>	'Aus',
+	'lang_On'					=>	'Ein',
+	'lang_Save'					=>	'Speichern',
 	
 ];
